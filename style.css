@@ -1,0 +1,17 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    margin: 0
+    ;
+    font-family: Arial, sans-serif;
+}
+
+  
+    .minha-classe { background-color: blueviolet;
+        padding: 0px;
+        font-size: 50px;
+    }
